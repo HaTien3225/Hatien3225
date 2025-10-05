@@ -49,21 +49,45 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 RoomFinder – Hệ thống hỗ trợ tìm kiếm nhà trọ
-- 🧩 Tech: React Native, Django REST, Firebase  
-- 💡 Features: Room posting, flexible search filters, following hosts, email notifications, real-time chat.
-
-### 🏥 Online Health Checkup Appointment System
+### 🏥 [Online Health Checkup Appointment System](https://github.com/hatien3225/HealthyCare)
+Web app for booking and managing online doctor appointments.  
 - 🧩 Tech: ReactJS + Spring Boot + MySQL  
 - 💡 Features: Authentication & Authorization, online payment (VNPay/MoMo), video consultation (WebRTC), statistics dashboard.
 
-### 💬 Cloud-Based Chat SaaS
+### 💬 [Cloud-Based Chat SaaS](https://github.com/hatien3225/ChatWeb)
+A scalable web chat system deployed on AWS.  
 - 🧩 Tech: Flask, Flask-SocketIO, AWS EC2 + S3 + Load Balancer  
 - 💡 Features: Real-time messaging, file upload, multi-instance scaling, secure sessions.
+
+### 💼 [ApplyGo](https://github.com/hatien3225/ApplyGo)
+A job-seeking web application for candidates and employers.  
+- 🧩 Tech: HTML, CSS, JavaScript, Flask, Bootstrap
+- 💡 Features: Job posting, application management, and job filtering.
+
+### ⚡ [ev_station](https://github.com/hatien3225/ev_station)
+Web app for finding and managing EV charging and battery-swap stations.  
+- 🧩 Tech: JavaScript, CSS, HTML, Bootstrap, Django, ReactJs, Django Channels
+- 💡 Features: Map integration, route suggestions, and location search.
+
+### 🏡 [HomeFinder](https://github.com/hatien3225/HomeFinder)
+A real-estate web app for searching and listing homes.  
+- 🧩 Tech: JavaScript, CSS, HTML, Bootstrap, Django, React Native
+- 💡 Features: Search, filter, and comment features.
+
+### 🏨 [StayEase](https://github.com/hatien3225/StayEase)
+A software designed to optimize hotel management.  
+- 🧩 Tech: Python, Flask, JavaScript, CSS, HTML, Bootstrap
+- 💡 Features: Room management, booking system, and staff dashboard.
+
+### 🛒 [LTDiDong](https://github.com/hatien3225/LTDiDong)
+A collaborative fork project for e-commerce and product management.  
+- 🧩 Tech: HTML, CSS, JavaScript, Java
+- 💡 Features: Cart, order, and product display.
 
 ---
 
