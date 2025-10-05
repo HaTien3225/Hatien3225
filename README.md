@@ -118,7 +118,7 @@ A collaborative fork project for e-commerce and product management.
 <p align="center">
   ✉️ <strong>Email:</strong> <a href="mailto:hatien3225@gmail.com">hatien3225@gmail.com</a> <br/>
   💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-h%C3%A0-thanh-150314381/">linkedin.com/in/tiến-hà-thanh</a> <br/>
-  🌐 <strong>Portfolio:</strong> <a href="https://hatien3225.dev">hatien3225.dev</a>
+  🌐 <strong>Portfolio:</strong> <a href="https://hatien3225.github.io/my-portfolio/">hatien3225.dev</a>
 </p>
 
 ---
